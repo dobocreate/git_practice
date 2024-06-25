@@ -2,4 +2,4 @@
 kadai1_2.txt is changed.
 #include <stdio.h>
 
-day2 start
+day2 start 
