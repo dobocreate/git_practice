@@ -1,1 +1,2 @@
-make on subbranch
+make on subbranch 
+メインブランチにマージ済み
