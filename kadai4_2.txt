@@ -1,0 +1,2 @@
+kadai4_1.txtseikou
+printf("やりました!！！！！")
