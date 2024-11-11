@@ -5,3 +5,4 @@ harehare
 
 kyouhaatsuinnkai 
 tesutouketakunai
+printf("日本語てローマ字だと読みにくいな")
