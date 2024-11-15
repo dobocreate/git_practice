@@ -1,5 +1,4 @@
+初期内容
+昨日から突然寒くなって辛い
+エアコンのタイマーを掛けていたのに20度設定で寒かった
 
-kadai1_2.txt is changed.
-#include <stdio.h>
-
-day2 start 

@@ -1,0 +1,3 @@
+kadai4_1.txtseikou
+printf("やりました!！！！！")
+printf("次は課題に挑戦")

@@ -1,4 +1,5 @@
-exciting
-fun!!!!!!!!
-
+main()
+#include<stdio.h>
+printf("Hello world")
+printf("適当に変えるのって難しい")
 7/18 git ex
