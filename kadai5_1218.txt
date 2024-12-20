@@ -1,3 +1,4 @@
 git log
 git diff
 git merge
+git checkout
